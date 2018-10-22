@@ -1,0 +1,5 @@
+Credentials cache: API:37162
+        Principal: maberkan@LE-101.FR
+
+		  Issued                Expires               Principal
+		  Jul  2 13:03:47 2018  Jul  9 13:02:47 2018  krbtgt/LE-101.FR@LE-101.FR
